@@ -1,0 +1,24 @@
+k=1 cfg=PV yalnız SCR=1.79 maxRe=-0.062 state=M1(b1).gov2
+k=1 cfg=GFL-BESS SCR=1.79 maxRe=-0.058 state=M1(b1).gov2
+k=1 cfg=GFM-BESS SCR=1.79 maxRe=-0.058 state=M1(b1).gov2
+k=2 cfg=PV yalnız SCR=1.46 maxRe=-0.062 state=M1(b1).gov2
+k=2 cfg=GFL-BESS SCR=1.46 maxRe=-0.058 state=M1(b1).gov2
+k=2 cfg=GFM-BESS SCR=1.46 maxRe=-0.058 state=M1(b1).gov2
+k=3 cfg=PV yalnız SCR=1.23 maxRe=-0.062 state=M1(b1).gov2
+k=3 cfg=GFL-BESS SCR=1.23 maxRe=-0.058 state=M1(b1).gov2
+k=3 cfg=GFM-BESS SCR=1.23 maxRe=-0.058 state=M1(b1).gov2
+k=4 cfg=PV yalnız SCR=1.07 maxRe=-0.062 state=M1(b1).gov2
+k=4 cfg=GFL-BESS SCR=1.07 maxRe=-0.058 state=M1(b1).gov2
+k=4 cfg=GFM-BESS SCR=1.07 maxRe=-0.058 state=M1(b1).gov2
+k=5 cfg=PV yalnız SCR=0.94 maxRe=-0.062 state=M1(b1).gov2
+k=5 cfg=GFL-BESS SCR=0.94 maxRe=-0.057 state=M1(b1).gov2
+k=5 cfg=GFM-BESS SCR=0.94 maxRe=-0.058 state=M1(b1).gov2
+k=6 cfg=PV yalnız SCR=0.84 maxRe=-0.062 state=M1(b1).gov2
+k=6 cfg=GFL-BESS SCR=0.84 maxRe=-0.057 state=M1(b1).gov2
+k=6 cfg=GFM-BESS SCR=0.84 maxRe=-0.057 state=M1(b1).gov2
+k=7 cfg=PV yalnız SCR=0.76 maxRe=-0.061 state=M1(b1).gov2
+k=7 cfg=GFL-BESS SCR=0.76 maxRe=-0.056 state=M1(b1).gov2
+k=7 cfg=GFM-BESS SCR=0.76 maxRe=-0.056 state=M1(b1).gov2
+k=8 cfg=PV yalnız SCR=0.69 maxRe=80.772 state=GFL1(b2).Iq
+k=8 cfg=GFL-BESS SCR=0.69 maxRe=0.662 state=GFL2(b2).th_pll
+k=8 cfg=GFM-BESS SCR=0.69 maxRe=7.567 state=GFM1(b2).th_v
